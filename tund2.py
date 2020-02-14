@@ -13,12 +13,13 @@
 #else:
     #print("Tegemist on paaritu arvuga")
 
-aasta = int(input("Sisesta oma aastaarv: "))
+#aasta = int(input("Sisesta oma aastaarv: "))
  
-if aasta%100==0:
-    if aasta%400!=0:        
-        print("lihtaasta")
-elif aasta%4==0:
-    print("liigaasta")
-else:
-    print("lihtaasta")
+#if aasta%100==0:
+    #if aasta%400!=0:        
+        #print("lihtaasta")
+#elif aasta%4==0:
+    #print("liigaasta")
+#else:
+    #print("lihtaasta")
+
